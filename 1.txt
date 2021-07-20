@@ -1,0 +1,4 @@
+Hello!
+This is my first text written with vim.
+est
+tst
