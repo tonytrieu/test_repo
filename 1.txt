@@ -1,5 +1,6 @@
 #RANDOM COMMENT
 #new comment
+#this is a third comment
 
 Hello!
 This is my first text written with vim.
